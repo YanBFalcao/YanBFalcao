@@ -22,7 +22,6 @@
     >
     <img align="center" alt="html5" src= "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /
     >
-    <bv></br>
     <img align="center" alt="html5" src= "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /
     >
     <img align="center" alt="html5" src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /
