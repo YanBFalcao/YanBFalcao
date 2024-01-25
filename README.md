@@ -31,16 +31,6 @@
 </div>
 <br>
 
-
-
-
-<div>
-  <img heigh="85" width="85" align="center" alt="html5" src=https://icons8.com.br/icon/BEMhRoRy403e/ms-excel>
-  </img>   
-</div>
-
-
-
 *************
 ### To analyze the results of my work, I use the tools:
 
