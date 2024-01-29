@@ -1,8 +1,7 @@
 # Hey guys! I'm Yan Falcão 👨🏻‍💻🤘🏼
 ( Java | Sprint Boot | HTML | MySQL | Linux | ERP )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbfalcao&hide_progress=false&theme=dracula)
-<br>
+
 
 *************
 ### As ERP extension implementation technician, i use the tools:
